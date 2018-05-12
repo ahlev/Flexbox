@@ -1,0 +1,15 @@
+body {
+    background-color: green;
+}
+
+.flex-container {
+    display: flex;
+    flex-flow: row flex;
+    background-color:grey;
+    background-color:darkgray;
+    width: 500px;
+    margin: 500px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
